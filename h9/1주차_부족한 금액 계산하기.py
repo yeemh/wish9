@@ -6,5 +6,5 @@ def solution(price, money, count):
         answer = sum - money
     else:
         answer = 0
-        
+
     return answer
