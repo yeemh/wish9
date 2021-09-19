@@ -13,8 +13,6 @@
   - mh [py](./mh/2주차_상호평가.py)
   - h9 [py](./h9/2주차_상호평가.py)
   - wish [py](./wish/2주차_상호평가.py)
-
-
 - **LEVEL2** [5주차\_모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
   - mh [py](./mh/5주차_모음사전.py)
   - h9 [py](./h9/5주차_모음사전.py)
